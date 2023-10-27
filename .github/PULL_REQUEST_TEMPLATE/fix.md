@@ -4,13 +4,13 @@
 
 Describe the issue in detail.
 
-### What causes it?
-
-Describe the root cause of the issue.
-
 ### What is the expected behavior?
 
 Describe what should happen instead.
+
+### What caused it?
+
+Describe the root cause of the issue at technical level.
 
 ### How do you fix it?
 
@@ -22,7 +22,8 @@ List and justify your breaking changes.
 
 ### Alternatives
 
-List any alternative solutions you considered. Explain why you chose this approach instead.
+List any alternative solutions you considered.
+Explain why you chose this approach instead.
 
 ## Links
 
@@ -45,4 +46,5 @@ List any alternative solutions you considered. Explain why you chose this approa
 
 ### Additional Comments
 
-Justify for any exceptions or additional information that may be relevant to the reviewer.
+Provide justification if you have any items left unchecked above,
+or additional information that may be relevant to the reviewer.

@@ -36,4 +36,5 @@ List any alternative solutions you considered. Explain why you chose this approa
 
 ### Additional Comments
 
-Justify for any exceptions or additional information that may be relevant to the reviewer.
+Provide justification if you have any items left unchecked above,
+or additional information that may be relevant to the reviewer.
